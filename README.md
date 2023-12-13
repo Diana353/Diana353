@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Diana353
 - 👀 I’m interested in AppDevelopment
-- 🌱 I’m currently learning HTML,CSS, Javascript, Python, php
+- 🌱 I’m currently learning HTML,CSS, Javascript, NodeJS, php, Java, Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
